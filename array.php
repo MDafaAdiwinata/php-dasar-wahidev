@@ -10,5 +10,6 @@ echo "<br>";
 echo var_dump($kota);
 
 // 2. Menambahkan isi array
-
+// a) menambahkan isi pada index ke 3
+$kota[3] = "Surabaya";
 ?>
