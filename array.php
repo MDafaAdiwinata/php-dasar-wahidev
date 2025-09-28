@@ -18,4 +18,7 @@ $kota[] = "Malang";
 
 // 3. Menghapus isi array
 // gunakan fungsi unser() untuk menghapus isi array
+
+// Menghapus Semarang
+unset($kota[1]);
 ?>
