@@ -5,4 +5,7 @@
 // 1. Menampilkan data array
 echo "Saya pernah mengunjungi kota $kota[0], $kota[1], dan kota $kota[2]";
 echo "<br>";
+
+// Cek jenis variable data array
+echo var_dump($kota);
 ?>
