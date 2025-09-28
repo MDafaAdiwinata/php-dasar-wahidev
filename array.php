@@ -15,4 +15,7 @@ $kota[3] = "Surabaya";
 
 // b) menambahkan isi pada index terakhir
 $kota[] = "Malang";
+
+// 3. Menghapus isi array
+// gunakan fungsi unser() untuk menghapus isi array
 ?>
