@@ -24,5 +24,11 @@ unset($kota[1]);
 
 // # Array Asosiatif
 // Array yang tidak menggunakan nomer atau angka. Indeks array asosiatif berbentuk kata kunci/key
+$buku = [
+    "Judul" => "Belajar Matematika Lanjutan",
+    "Penulis" => "Erlangga",
+    "Jumlah Halaman" => 400,
+    "Harga" => 50000
+];
 
 ?>
