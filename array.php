@@ -21,4 +21,7 @@ $kota[] = "Malang";
 
 // Menghapus Semarang
 unset($kota[1]);
+
+// # Array Asosiatif
+
 ?>
