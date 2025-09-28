@@ -23,5 +23,6 @@ $kota[] = "Malang";
 unset($kota[1]);
 
 // # Array Asosiatif
+// Array yang tidak menggunakan nomer atau angka. Indeks array asosiatif berbentuk kata kunci/key
 
 ?>
