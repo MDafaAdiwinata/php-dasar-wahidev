@@ -31,4 +31,10 @@ $buku = [
     "Harga" => 50000
 ];
 
+echo "<br>";
+echo "<h2>"."Nama Buku: ".$buku["Judul"]."</h2>";
+echo "<p>"."Penulis: ".$buku["Penulis"]."</p>";
+echo "<p>"."Jumlah Halaman: ".$buku["Jumlah Halaman"]."</p>";
+echo "<p>"."Harga: Rp ".$buku["Harga"]."</p>";
+
 ?>
