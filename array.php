@@ -12,4 +12,7 @@ echo var_dump($kota);
 // 2. Menambahkan isi array
 // a) menambahkan isi pada index ke 3
 $kota[3] = "Surabaya";
+
+// b) menambahkan isi pada index terakhir
+$kota[] = "Malang";
 ?>
