@@ -8,4 +8,7 @@ echo "<br>";
 
 // Cek jenis variable data array
 echo var_dump($kota);
+
+// 2. Menambahkan isi array
+
 ?>
