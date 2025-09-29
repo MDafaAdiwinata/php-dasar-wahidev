@@ -21,4 +21,7 @@ function Pengurangan($angka1, $angka2) {
     return "$angka1 di kurang $angka2 adalah: $hasilPengurangan";
 }
 echo Pengurangan(40, 5);
+
+echo "<br>";
+
 ?>
