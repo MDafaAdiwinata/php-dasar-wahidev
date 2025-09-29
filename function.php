@@ -24,4 +24,11 @@ echo Pengurangan(40, 5);
 
 echo "<br>";
 
+// Function dengan parameter, dengan nilai default
+function Perkenalan( $nama, $salam = "Assalamualaikum" ) {
+    echo "<br> $salam <br>";
+    echo "Nama: $nama <br>";
+    echo "Senang bisa berkenalan dengan Anda!";
+}
+
 ?>
