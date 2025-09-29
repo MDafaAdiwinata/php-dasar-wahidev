@@ -11,4 +11,12 @@ foreach ( $kota as $detailKota ) {
     echo "Kota $detailKota <br>";
 }
 
+echo "<br>";
+
+// Perulangan foreach dengan urutan angka
+$nomor = 1;
+foreach ( $makanan as $makananIndonesia ) {
+    echo $nomor++.". Makanan Indonesia $makananIndonesia <br>";
+}
+
 ?>
