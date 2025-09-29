@@ -34,5 +34,9 @@ function Perkenalan( $nama, $salam = "Assalamualaikum" ) {
 // Panggil fungsi yang sudah di buat, dengan parameter custom
 Perkenalan("Dafa Adi", "Hallo");
 
+echo "<br>";
+
+// Panggil fungsi tanpa mengisi parameter 'salam'
+Perkenalan("Dafa Adi");
 
 ?>
