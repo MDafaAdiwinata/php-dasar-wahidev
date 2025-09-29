@@ -12,4 +12,7 @@ function Pertambahan() {
     return "$x di tambah $y adalah: $hasil";
 }
 echo Pertambahan();
+
+echo "<br>";
+
 ?>
