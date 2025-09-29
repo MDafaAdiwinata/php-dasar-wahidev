@@ -6,4 +6,9 @@
 $kota = ["Jakarta", "Tangerang", "Bekasi"];
 $makanan = ["Nasi Padang", "Nasi Goreng", "Mie Goreng"];
 
+// Perulangan foreach tanpa urutan angka
+foreach ( $kota as $detailKota ) {
+    echo "Kota $detailKota <br>";
+}
+
 ?>
