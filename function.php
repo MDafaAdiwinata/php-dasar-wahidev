@@ -31,4 +31,8 @@ function Perkenalan( $nama, $salam = "Assalamualaikum" ) {
     echo "Senang bisa berkenalan dengan Anda!";
 }
 
+// Panggil fungsi yang sudah di buat, dengan parameter custom
+Perkenalan("Dafa Adi", "Hallo");
+
+
 ?>
